@@ -20,3 +20,5 @@ I'm a self-taught passionate mobile app developer from Peru 🇵🇪
   <div align="center"> 
     <img src="https://github.com/bastndev/Git-Test/blob/main/IMG/on11.png" alt="">
   </div>
+<tr>
+    <td align="center"><a href="https://github.com/bastndev"><img src="https://avatars.githubusercontent.com/u/113950039?v=4" width="100px;" alt=""/><br /><sub><b>  Gohit Mayer 👽</b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
