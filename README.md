@@ -12,7 +12,7 @@ I'm a self-taught passionate mobile app developer from Peru 🇵🇪
 
 - ❤️ I love developing apps and creating fun type-level experiments
 
-- 💬 Ask me about anything [https://github.com/bastndev/Flutter-ListView-1/issues)
+- 💬 Ask me about anything [Here](https://github.com/bastndev/Flutter-ListView-1/issues)
 
 ## Mockup 📱
 ---
