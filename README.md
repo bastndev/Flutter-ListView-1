@@ -12,11 +12,13 @@ I'm a self-taught passionate mobile app developer from Peru 🇵🇪
 
 - ❤️ I love developing apps and creating fun type-level experiments
 
-- 💬 Ask me about anything [here](https://github.com/bastndev/GitHub/issues)
+- 💬 Ask me about anything [Here](https://github.com/bastndev/Flutter-ListView-1/issues)
 
-## Hey, this is us 👋
+## Mockup 📱
 ---
 <!--Mockup-->  
   <div align="center"> 
     <img src="https://github.com/bastndev/Git-Test/blob/main/IMG/on11.png" alt="">
   </div>
+<tr>
+    <td align="center"><a href="https://github.com/bastndev"><img src="https://avatars.githubusercontent.com/u/113950039?v=4" width="100px;" alt=""/><br /><sub><b>  Gohit Mayer 👽</b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
