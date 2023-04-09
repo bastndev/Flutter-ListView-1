@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:github_flutter_1/screens/screens.dart';
+
+import 'package:github_flutter_1/router/app_routers.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
@@ -29,7 +30,8 @@ class HomeScreen extends StatelessWidget {
                 },
               ),
           separatorBuilder: (_, __) => const Divider(),
-          itemCount: 20),
+          itemCount: AppRoutes.menuOptios.length
+        ),
     );
   }
 }

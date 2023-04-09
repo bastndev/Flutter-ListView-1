@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
 
       /* --- --- --- --- --- --- Links */
         initialRoute: AppRoutes.initialRoute,
-        routes: AppRoutes.routes,
+        routes: AppRoutes.getAppRoutes(),
         onGenerateRoute: AppRoutes.onGenerateRoute
     );
   }
