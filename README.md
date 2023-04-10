@@ -1,4 +1,4 @@
-# Flutter ListView
+# Flutter ListView 
 
 A new Flutter project 4/4/2023. "Memories"
 
@@ -6,7 +6,7 @@ A new Flutter project 4/4/2023. "Memories"
 
 I'm a self-taught passionate mobile app developer from Peru 🇵🇪
 
-- 💼 Mobile app in  [[■□□□□□□□□□] 10%](https://www.tiktok.com/@bastndev)
+- 💼 Mobile app in  [[■■□□□□□□□□] 20%](https://www.tiktok.com/@bastndev)
 
 - 📈 Built github-readme-stats, verlyjs and more, **10k+** hits • **111** stars on GitHub
 
