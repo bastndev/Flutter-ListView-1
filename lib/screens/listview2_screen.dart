@@ -14,8 +14,8 @@ class ListView2Screen extends StatelessWidget {
             'Hero Dota 2',
             style: TextStyle(fontSize: 27),
           ),
-          elevation: 0,
-          backgroundColor: Colors.indigo,
+          // elevation: 0,
+          // backgroundColor: Colors.indigo,
         ),
 
         /* --- --- --- --- --- --- Body */
