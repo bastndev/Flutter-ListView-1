@@ -1,15 +1,13 @@
 # Flutter ListView
-A new Flutter project 4/4/2023. "Memories"
 
 **Mobile Details👽**
 
-I'm a self-taught passionate mobile app developer from Peru 🇵🇪
 
-- 💼 Mobile app in  [[■■□□□□□□□□] 20%](https://www.tiktok.com/@bastndev)
+- 💼 Avanxe <( o chii)>  [[■■■□□□□□□□] 30%](https://www.tiktok.com/@bastndev)
 
-- 📈 Built github-readme-stats, verlyjs and more, **10k+** hits • **111** stars on GitHub
+- 📈 Avanzando Piola
 
-- ❤️ I love developing apps and creating fun type-level experiments
+- ❤️ Con Amor obio
 
 - 💬 Ask me about anything [Here](https://github.com/bastndev/Flutter-ListView-1/issues)
 
@@ -19,5 +17,16 @@ I'm a self-taught passionate mobile app developer from Peru 🇵🇪
   <div align="center"> 
     <img src="https://github.com/bastndev/Screenshot-Mobile/blob/main/assets/img/on11.png" alt="">
   </div>
+    <div align="center"> 
+    <img src="https://github.com/bastndev/Screenshot-Mobile/blob/main/assets/img/on12.png" alt="">
+  </div>
+---
+
+<!-- Participants -->
+  <table>
 <tr>
     <td align="center"><a href="https://github.com/bastndev"><img src="https://avatars.githubusercontent.com/u/113950039?v=4" width="100px;" alt=""/><br /><sub><b>  👽 Bastian Dev </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
+  
+  <td align="center"><a href="https://github.com/SmurfDev51"><img src="https://avatars.githubusercontent.com/u/64986030?v=4" width="100px;" alt=""/><br /><sub><b>  👽 Bastian Dev </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
+</table>
+    
