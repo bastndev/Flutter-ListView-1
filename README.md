@@ -2,13 +2,11 @@
 
 **Mobile Details 👽**
 
-Love learning new technologies and contributing to open source.
+learning flutter evry day.
 
-- 💼 Avanxe <( o chii)>  [[■■■□□□□□□□] 30%](https://www.tiktok.com/@bastndev)
+- 💼 Day 14
 
-- 📈 Avanzando Piola
-
-- ❤️ Con Amor obio
+- 📈 [[■■■□□□□□□□] 30%](https://www.tiktok.com/@bastndev)
 
 - 💬 Ask me about anything [Here](https://github.com/bastndev/Flutter-ListView-1/issues)
 
