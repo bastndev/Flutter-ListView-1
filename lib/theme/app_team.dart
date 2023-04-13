@@ -2,8 +2,7 @@ import 'package:flutter/material.dart';
 
 class AppTheme {
   // AppBar Color and ALL
-  static const Color primary = Colors.teal;
-
+  static const Color primary = Colors.red;
 
   static final ThemeData lighTheme = ThemeData.light().copyWith(
       
@@ -15,8 +14,20 @@ class AppTheme {
       appBarTheme: const AppBarTheme(
         color: primary,
         elevation: 0
-    )
-  );
+    ),
+
+  // TextButton Theme Esta baina me causa problema pero ya sabes lla solucion es siple- solo pon AppTheme.primary en colores de letras
+      // textButtonTheme: TextButtonThemeData(
+      //   style: TextButton.styleFrom(foregroundColor:primary),
+      // )
+
+);
+
+
+
+
+
+
 
 // Dark Moder - Color
   static final ThemeData darkTheme = ThemeData.dark().copyWith(
