@@ -28,6 +28,6 @@ learning flutter evry day.
 <tr>
     <td align="center"><a href="https://github.com/bastndev"><img src="https://avatars.githubusercontent.com/u/113950039?v=4" width="100px;" alt=""/><br /><sub><b>  👽 Bastian Dev </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
   
-  <td align="center"><a href="https://github.com/SmurfDev51"><img src="https://avatars.githubusercontent.com/u/64986030?v=4" width="100px;" alt=""/><br /><sub><b>  👽 Bastian Dev </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
+  <td align="center"><a href="https://github.com/SmurfDev51"><img src="https://avatars.githubusercontent.com/u/64986030?v=4" width="100px;" alt=""/><br /><sub><b>  Gohit Mayer </b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance"></a></td>
 </table>
     
