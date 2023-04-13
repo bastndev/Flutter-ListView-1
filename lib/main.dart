@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 // import 'package:github_flutter_1/screens/screens.dart';
 import 'package:github_flutter_1/router/app_routers.dart';
+import 'package:github_flutter_1/theme/app_team.dart';
 
 void main() => runApp(const MyApp());
 
@@ -17,7 +18,8 @@ class MyApp extends StatelessWidget {
       /* --- --- --- --- --- --- Links */
         initialRoute: AppRoutes.initialRoute,
         routes: AppRoutes.getAppRoutes(),
-        onGenerateRoute: AppRoutes.onGenerateRoute
+        onGenerateRoute: AppRoutes.onGenerateRoute,
+        theme: AppTheme.darkTheme,
     );
   }
 }
