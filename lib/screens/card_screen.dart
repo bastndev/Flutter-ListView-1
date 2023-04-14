@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 
-import '../widgets/custom_card_ty.dart';
+import '../widgets/widgets.dart';
+
+
+// import '../widgets/custom_card_ty.dart';
 
 class CardScreen extends StatelessWidget {
   
@@ -17,6 +20,8 @@ class CardScreen extends StatelessWidget {
         children:  const [
 
         CustomCardTy(),
+        SizedBox(height: 20),
+        CustomCardTy2(),
 
         ],
       )
