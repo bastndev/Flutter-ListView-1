@@ -16,16 +16,17 @@ class CardScreen extends StatelessWidget {
         title:const  Text('Card Widget'),
       ),
       body: ListView(
-        padding: const EdgeInsets.symmetric(horizontal: 50,vertical: 10),
+        padding: const EdgeInsets.symmetric(horizontal: 50, vertical: 10),
         children:  const [
 
         CustomCardTy(),
         SizedBox(height: 20),
-        CustomCardTy2(),
+        CustomCardTy2(  imageUrl: 'https://acortar.link/elvEaF', name: null),
         SizedBox(height: 20),
-        CustomCardTy2(),
-        SizedBox(height: 30),
-        CustomCardTy2(),
+        CustomCardTy2( imageUrl: 'https://acortar.link/UzbMil', name: 'Model AddI 2' ),
+        SizedBox(height: 20),
+        CustomCardTy2( imageUrl: 'https://acortar.link/O3eszY', name: null   ),
+        SizedBox(height: 100),
 
 
         ],

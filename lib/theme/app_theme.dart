@@ -20,6 +20,22 @@ class AppTheme {
       // textButtonTheme: TextButtonThemeData(
       //   style: TextButton.styleFrom(foregroundColor:primary),
       // )
+  // Aquí puedes definir cualquier otra propiedad que necesites cambiar
+
+
+    // FloattinActioButtons
+      floatingActionButtonTheme: const FloatingActionButtonThemeData(
+      backgroundColor: primary,
+),
+  // ElevatedButtons
+  elevatedButtonTheme: ElevatedButtonThemeData(
+    style: ElevatedButton.styleFrom(
+            backgroundColor: (Colors.teal) ,
+            shape: const StadiumBorder(),
+            elevation: 0,
+          ),
+  )
+
 
 );
 
@@ -41,7 +57,5 @@ class AppTheme {
         color: primary,
         elevation: 0
     ),
-
-    scaffoldBackgroundColor: const Color(0xFF1b1c23)
   );
 }

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 // import 'package:github_flutter_1/screens/screens.dart';
 import 'package:github_flutter_1/router/app_routers.dart';
-import 'package:github_flutter_1/theme/app_team.dart';
+import 'package:github_flutter_1/theme/app_theme.dart';
 
 void main() => runApp(const MyApp());
 
