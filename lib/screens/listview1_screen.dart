@@ -23,7 +23,7 @@ class ListView1Screen extends StatelessWidget {
           )        
           ).toList(),  
 
-          Divider(),//linea  Separacion 
+          const Divider(),//linea  Separacion 
         ],
       )  
     );
