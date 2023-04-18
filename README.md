@@ -4,22 +4,27 @@
 
 learning flutter evry day.
 
-- 💼 Day 14
+- 💼 Day 20
 
-- 📈 [[■■■□□□□□□□] 30%](https://www.tiktok.com/@bastndev)
+- 📈 [[■■■■□□□□□□] 40%](https://www.tiktok.com/@bastndev)
 
 - 💬 Ask me about anything [Here](https://github.com/bastndev/Flutter-ListView-1/issues)
 
 ## Light Mode 📱
 <!--Mockup-->  
   <div align="center"> 
-    <img src="https://github.com/bastndev/Screenshot-Mobile/blob/main/assets/img/on11.png" alt="">
+    <img src="https://github.com/bastndev/Screenshot-Mobile/blob/main/assets/img/lightMode.png" alt="">
   </div>
 
 
 ## Dark Mode 📱
   <div align="center"> 
-    <img src="https://github.com/bastndev/Screenshot-Mobile/blob/main/assets/img/on12.png" alt="">
+    <img src="https://github.com/bastndev/Screenshot-Mobile/blob/main/assets/img/darkMode.png" alt="">
+  </div>
+
+  ## Gif Mode 📱
+  <div align="center"> 
+    <img src="https://github.com/bastndev/Screenshot-Mobile/blob/main/assets/img/allMode.gif" alt="">
   </div>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
