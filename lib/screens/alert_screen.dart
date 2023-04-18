@@ -21,7 +21,7 @@ class AlertScreen extends StatelessWidget {
               Text('This is message is, so bad close App please!'),
               SizedBox(height: 10),
               FlutterLogo(
-                size: 50,
+                size: 90,
               )
             ]),
             /*--- --- --- --- --- Butoons Colors IOS*/

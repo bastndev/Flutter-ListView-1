@@ -4,6 +4,7 @@ class AppTheme {
   // AppBar Color and ALL
   static const Color primary = Colors.teal;
 
+// --- --- --- --- --- LightMode - Color
   static final ThemeData lighTheme = ThemeData.light().copyWith(
       
       //primari color
@@ -33,19 +34,12 @@ class AppTheme {
             backgroundColor: (Colors.teal) ,
             shape: const StadiumBorder(),
             elevation: 0,
-          ),
-  )
-
+          ),   
+  ),
 
 );
 
-
-
-
-
-
-
-// Dark Moder - Color
+// --- --- --- --- --- Dark Mode - Color
   static final ThemeData darkTheme = ThemeData.dark().copyWith(
       
       //primari color
@@ -57,5 +51,6 @@ class AppTheme {
         color: primary,
         elevation: 0
     ),
+    scaffoldBackgroundColor: const Color(0xFF1b1c23)
   );
 }

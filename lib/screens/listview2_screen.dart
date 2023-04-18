@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class ListView2Screen extends StatelessWidget {
-  final options = const ['Axe','Pudge','Ursa','Mirana','Drow Ranger','Earth Shaker'];
+  final options = const ['Axe','Pudge','Ursa','Mirana','Drow Ranger','Earth Shaker',];
 
   const ListView2Screen({Key? key}) : super(key: key);
 
@@ -11,7 +11,7 @@ class ListView2Screen extends StatelessWidget {
         /* --- --- --- --- --- AppBar */
         appBar: AppBar(
           title: const Text(
-            'Hero Dota 2',
+            'Dota 2 Hero',
             style: TextStyle(fontSize: 27),
           ),
           // elevation: 0,

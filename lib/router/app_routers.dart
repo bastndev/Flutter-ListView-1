@@ -20,7 +20,7 @@ class AppRoutes {
         icon: Icons.filter_1),
     MenuOptions(
         route: 'ListView2',
-        name: 'ListView tipe 1',
+        name: 'ListView tipe 2',
         screen: const ListView2Screen(),
         icon: Icons.filter_2),
     MenuOptions(
@@ -38,6 +38,11 @@ class AppRoutes {
         name: 'Circle Avatar',
         screen: const AvatarScreen(),
         icon: Icons.supervised_user_circle_outlined),
+    MenuOptions(
+        route: 'Animated',
+        name: 'Animated Container',
+        screen: const AnimatedScreen(),
+        icon: Icons.play_circle_outline_rounded),
   ];
 
   static Map<String, Widget Function(BuildContext)> getAppRoutes() {
