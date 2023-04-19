@@ -8,11 +8,11 @@ class AppRoutes {
   static const initialRoute = 'home';
 
   static final menuOptions = <MenuOptions>[
-    MenuOptions(
-        route: 'home',
-        name: 'Home Screen',
-        screen: const HomeScreen(),
-        icon: Icons.home),
+    // MenuOptions(
+    //     route: 'home',
+    //     name: 'Home Screen',
+    //     screen: const HomeScreen(),
+    //     icon: Icons.home),
     MenuOptions(
         route: 'ListView1',
         name: 'ListView tipe 1',
@@ -43,10 +43,16 @@ class AppRoutes {
         name: 'Animated Container',
         screen: const AnimatedScreen(),
         icon: Icons.play_circle_outline_rounded),
+    MenuOptions(
+        route: 'Inputs',
+        name: 'Text Input',
+        screen: const InputssScreen(),
+        icon: Icons.input_outlined),
   ];
 
   static Map<String, Widget Function(BuildContext)> getAppRoutes() {
     Map<String, Widget Function(BuildContext)> appRoutes = {};
+      appRoutes.addAll({'home': (BuildContext context) => const HomeScreen()});
 
     for (final option in menuOptions) {
       appRoutes.addAll({option.route: (BuildContext context) => option.screen});
