@@ -33,7 +33,7 @@ class InputssScreen extends StatelessWidget {
                   // prefixIcon: Icon(Icons.group_outlined, color: Colors.red,),
                   suffixIcon: Icon(Icons.group_outlined, color: Colors.red,),
                   icon:Icon(Icons.group_outlined, color: Colors.red,),
-                  focusedBorder: OutlineInputBorder(
+                  focusedBorder: OutlineInputBorder( 
                     borderSide: BorderSide(
                       color: Colors.black
                     )
