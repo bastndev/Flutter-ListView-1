@@ -28,10 +28,7 @@ class InputssScreen extends StatelessWidget {
               SizedBox(height: 30,),
               CustomInputField( labelText: 'Pasword', hintText: 'User Pasword', obscureText: true,),
 
-              SizedBox(height: 30,),
-              CustomInputField( labelText: 'Contra', hintText: 'User Pasword', obscureText: true,),
-              CustomInputField( labelText: 'Contra', hintText: 'User Pasword', obscureText: true,),
-              CustomInputField( labelText: 'Contra', hintText: 'User Pasword', obscureText: true,),
+              
             ]
           ),
         ),
