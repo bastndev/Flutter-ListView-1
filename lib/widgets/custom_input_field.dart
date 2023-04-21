@@ -40,7 +40,7 @@ class CustomInputField extends StatelessWidget {
       decoration: InputDecoration( 
         hintText: hintText,
         labelText: labelText,
-        helperText: helperText,
+        helperText: helperText, 
 
         /*  --- --- --- --- --- --- --- --- Colors  */
         // prefixIcon: Icon(Icons.group_outlined, color: Colors.red,),
