@@ -11,7 +11,7 @@ packages:
     version: "2.10.0"
   boolean_selector:
     dependency: transitive
-    description:
+    description: 
       name: boolean_selector
       sha256: "6cfb5af12253eaf2b368f07bacc5a80d1301a071c73360d746b7f2e32d762c66"
       url: "https://pub.dev"
