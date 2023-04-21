@@ -37,7 +37,7 @@ class CustomInputField extends StatelessWidget {
         return value.length < 3 ? 'Minimo de 3 letras ' : null;
       },
       autovalidateMode: AutovalidateMode.onUserInteraction,
-      decoration: InputDecoration(
+      decoration: InputDecoration( 
         hintText: hintText,
         labelText: labelText,
         helperText: helperText,
