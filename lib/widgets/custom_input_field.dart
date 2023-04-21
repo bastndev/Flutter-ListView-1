@@ -45,7 +45,7 @@ class CustomInputField extends StatelessWidget {
         /*  --- --- --- --- --- --- --- --- Colors  */
         // prefixIcon: Icon(Icons.group_outlined, color: Colors.red,),
         suffixIcon: suffixIcon == null ? null : Icon(suffixIcon),
-        icon: icon == null ? null : Icon(icon),
+        icon: icon == null ? null : Icon(icon), 
       ),
     );
   }
