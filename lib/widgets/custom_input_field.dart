@@ -9,6 +9,9 @@ class CustomInputField extends StatelessWidget {
   final TextInputType? keyboardType;
   final bool  obscureText;
 
+  final String formProperty;
+  final Map<String, String> formaValues;
+
   const CustomInputField({
     super.key,
     this.hintText,
@@ -17,7 +20,9 @@ class CustomInputField extends StatelessWidget {
     this.icon,
     this.suffixIcon,
     this.keyboardType,
-    this.obscureText = false,
+    this.obscureText = false, 
+    required this.formProperty, 
+    required this.formaValues,
   });
 
   @override
@@ -30,7 +35,8 @@ class CustomInputField extends StatelessWidget {
       obscureText:obscureText,
 
       // ignore: avoid_print
-      onChanged: (value) {print('value: $value');},
+      onChanged: (value)=> formaValues[formProperty] = value,
+      
       /*  --- --- --- --- --- --- --- Date Usar  */
       validator: (value) {
         if (value == null) return 'Este Campo es requerido';
